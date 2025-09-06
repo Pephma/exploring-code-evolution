@@ -81,9 +81,16 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/fastapi/fastapi
+2. Gráfico selecionado: ![Evolução de funções e classes](g.png)
+3. Explicação: 
+- O aumento de funções pode indicar maior modularização do sistema, já que funções menores tornam o código mais fácil de manter e testar.
+
+- O aumento de classes mostra que há preocupação com modelagem orientada a objetos, criando abstrações para organizar melhor o código.
+
+- O ritmo mais acelerado de crescimento de funções em comparação com classes sugere que o projeto adota uma mistura de paradigma procedural + orientado a objetos, o que é comum em muitos sistemas Python.
+
+- O crescimento conjunto de funções e classes entre 2023–2024 é um marco importante: provavelmente o sistema recebeu novas grandes funcionalidades e foi expandido em escala.
 
 
 
